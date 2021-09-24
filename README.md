@@ -1,6 +1,6 @@
 # netty-chat
 
-
+TODO
 - create a chat room
 - enter the chat room
 - leave the chat room
